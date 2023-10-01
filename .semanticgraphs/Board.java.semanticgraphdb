@@ -1,0 +1,315 @@
+
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java„	
+BoardCLASS6
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java("
+packageBoard"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier">public </mark><mark class="modifier">class </mark>Board"
+accesspublic*Board2[
+Board.Board(int)DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2b
+Board.initializeBoard()DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ( 2i
+Board.makeMove(int, int, char)DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2f
+Board.isEmptyCell(int, int)DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2Y
+Board.isFull()DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java   (2_
+Board.displayBoard()DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java% %(2Z
+Board.getSize()DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java9 9(2_
+Board?grid@1.13:1.17DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2_
+Board?size@2.16:2.20DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2`
+Board?moves@3.16:3.21DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (º
+Board.Board(int)CONSTRUCTOR:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("É
+declarationStringn<mark class="modifier">public </mark><mark class="method">Board</mark>(<mark class="modifier">int</mark> size)*Board2[
+Board.initializeBoard()CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2Y
+Board.Board(int)!sizeCALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2Y
+Board.Board(int)!sizeCALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (!2Y
+Board.Board(int)!sizeCALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java# ('2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2X
+Board?grid@1.13:1.17CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2^
+Board.Board(int)!size	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2P
+BoardRETURN_TYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (â
+Board.Board(int)!size	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> size*size2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (ú
+Board.initializeBoard()METHOD:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ( "
+isFinalfalse"ã
+declarationStringv<mark class="modifier">private </mark><mark class="modifier">void</mark> <mark class="method">initializeBoard</mark>()"
+isStaticfalse"
+accessprivate"
+
+isAbstractfalse"
+typevoid*initializeBoard2i
+%Board.initializeBoard()?i@13.17:13.18CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ( 2i
+%Board.initializeBoard()?i@13.17:13.18CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java" (#2i
+%Board.initializeBoard()?j@14.21:14.22CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java  ($2i
+%Board.initializeBoard()?j@14.21:14.22CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java& ('2X
+Board?grid@1.13:1.17CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2i
+%Board.initializeBoard()?i@13.17:13.18CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2i
+%Board.initializeBoard()?j@14.21:14.22CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2p
+%Board.initializeBoard()?i@13.17:13.18DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2p
+%Board.initializeBoard()?j@14.21:14.22DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2O
+voidRETURN_TYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (÷
+%Board.initializeBoard()?i@13.17:13.18VARIABLE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (÷
+%Board.initializeBoard()?j@14.21:14.22VARIABLE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (´
+Board.makeMove(int, int, char)METHOD:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("
+isFinalfalse"’
+declarationStringø<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">makeMove</mark>(<mark class="modifier">int</mark> row<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> col<mark class="modifier"><mark class="modifier">,</mark></mark> char symbol)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*makeMove2X
+Board?grid@1.13:1.17CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2f
+"Board.makeMove(int, int, char)!rowCALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2f
+"Board.makeMove(int, int, char)!colCALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2i
+%Board.makeMove(int, int, char)!symbolCALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2Y
+Board?moves@3.16:3.21CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2k
+"Board.makeMove(int, int, char)!row	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ( 2k
+"Board.makeMove(int, int, char)!col	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java& ()2n
+%Board.makeMove(int, int, char)!symbol	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java0 (62O
+voidRETURN_TYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (î
+"Board.makeMove(int, int, char)!row	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ( "
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> row*row2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (î
+"Board.makeMove(int, int, char)!col	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java& ()"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> col*col2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java" (%Ç
+%Board.makeMove(int, int, char)!symbol	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java0 (6"
+typechar"
+isFinalfalse" 
+declarationStringchar symbol*symbol2H
+charTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java+ (/¨
+Board.isEmptyCell(int, int)METHOD:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("
+isFinalfalse"í
+declarationString¸<mark class="modifier">public </mark><mark class="modifier">boolean</mark> <mark class="method">isEmptyCell</mark>(<mark class="modifier">int</mark> row<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> col)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeboolean*isEmptyCell2X
+Board?grid@1.13:1.17CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2c
+Board.isEmptyCell(int, int)!rowCALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2c
+Board.isEmptyCell(int, int)!colCALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (2h
+Board.isEmptyCell(int, int)!row	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java# (&2h
+Board.isEmptyCell(int, int)!col	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java, (/2R
+booleanRETURN_TYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (ë
+Board.isEmptyCell(int, int)!row	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java# (&"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> row*row2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("ë
+Board.isEmptyCell(int, int)!col	PARAMETER:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java, (/"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> col*col2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java( (+£
+Board.isFull()METHOD:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java   ("
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier">public </mark><mark class="modifier">boolean</mark> <mark class="method">isFull</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeboolean*isFull2Y
+Board?moves@3.16:3.21CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java! !(2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java! !(2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java! !(#2R
+booleanRETURN_TYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java   (ñ
+Board.displayBoard()METHOD:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java% %("
+isFinalfalse"á
+declarationStringr<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">displayBoard</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*displayBoard2f
+"Board.displayBoard()?i@39.17:39.18CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java' '(2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java' '( 2f
+"Board.displayBoard()?i@39.17:39.18CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java'" '(#2f
+"Board.displayBoard()?j@40.21:40.22CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java( ((2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java(  (($2f
+"Board.displayBoard()?j@40.21:40.22CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java(& (('2X
+Board?grid@1.13:1.17CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java)! )(%2f
+"Board.displayBoard()?i@39.17:39.18CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java)& )('2f
+"Board.displayBoard()?j@40.21:40.22CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java)) )(*2f
+"Board.displayBoard()?j@40.21:40.22CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java* *(2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java* *(2f
+"Board.displayBoard()?i@39.17:39.18CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java/ /(2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java/ /(2f
+"Board.displayBoard()?k@48.25:48.26CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java0  0(!2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java0$ 0((2f
+"Board.displayBoard()?k@48.25:48.26CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java02 0(32m
+"Board.displayBoard()?i@39.17:39.18DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java' '(2m
+"Board.displayBoard()?j@40.21:40.22DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java( ((2m
+"Board.displayBoard()?k@48.25:48.26DECLARATION:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java0 0(2O
+voidRETURN_TYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java% %(”
+"Board.displayBoard()?i@39.17:39.18VARIABLE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java' '("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java' '(”
+"Board.displayBoard()?j@40.21:40.22VARIABLE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java( (("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java( ((”
+"Board.displayBoard()?k@48.25:48.26VARIABLE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java0 0("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 0*k2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java0 0(Â
+Board.getSize()METHOD:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java9 9("
+isFinalfalse"Å
+declarationStringl<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getSize</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*getSize2X
+Board?size@2.16:2.20CALL:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java: :(2N
+intRETURN_TYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java9 9(‚
+Board?grid@1.13:1.17VARIABLE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("
+isFinalfalse"
+typechar"b
+declarationStringM<mark class="modifier"> </mark>char[][] <mark class="class-field">grid</mark>"
+isStaticfalse"
+accesspackage_private*grid2L
+char[][]TYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (
+ı
+Board?size@2.16:2.20VARIABLE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("
+isFinalfalse"
+typeint"Ç
+declarationStringm<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">size</mark>"
+isStaticfalse"
+accessprivate*size2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (¯
+Board?moves@3.16:3.21VARIABLE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java ("
+isFinalfalse"
+typeint"É
+declarationStringn<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">moves</mark>"
+isStaticfalse"
+accessprivate*moves2G
+intTYPE:
+0C:\JavaProjekt\TikTakToeGame-main\src\Board.java (

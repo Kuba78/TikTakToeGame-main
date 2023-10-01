@@ -1,0 +1,385 @@
+
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java™
+TikTakToeGameCLASSB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java ("
+packageTikTakToeGame"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>TikTakToeGame"
+accesspublic*TikTakToeGame2o
+TikTakToeGame.main(String[])DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2w
+$TikTakToeGame.getPlayerInput(String)DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java$ $(%2
+,TikTakToeGame.checkGameResult(Board, Player)DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java9 9(*ò
+TikTakToeGame.main(String[])METHODB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2x
+,TikTakToeGame.checkGameResult(Board, Player)CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2\
+Board.Board(int)CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2z
+.TikTakToeGame.main(String[])?player1@5.15:5.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java
+ 
+(&2x
+,TikTakToeGame.main(String[])?board@8.14:8.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2Ç
+6TikTakToeGame.main(String[])?currentPlayer@10.15:10.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (,2Ç
+6TikTakToeGame.main(String[])?currentPlayer@10.15:10.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2x
+,TikTakToeGame.main(String[])?board@8.14:8.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java# ((2x
+,TikTakToeGame.main(String[])?row@15.16:15.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java* (-2x
+,TikTakToeGame.main(String[])?col@16.16:16.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java/ (22x
+,TikTakToeGame.main(String[])?board@8.14:8.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java  (%2Ç
+6TikTakToeGame.main(String[])?currentPlayer@10.15:10.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java' (42x
+,TikTakToeGame.main(String[])?board@8.14:8.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2Ç
+6TikTakToeGame.main(String[])?currentPlayer@10.15:10.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java# (02x
+,TikTakToeGame.main(String[])?board@8.14:8.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2x
+,TikTakToeGame.main(String[])?board@8.14:8.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2Ç
+6TikTakToeGame.main(String[])?currentPlayer@10.15:10.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2Ç
+6TikTakToeGame.main(String[])?currentPlayer@10.15:10.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (*2z
+.TikTakToeGame.main(String[])?player1@5.15:5.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java. (52z
+.TikTakToeGame.main(String[])?player2@6.15:6.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java9 (@2z
+.TikTakToeGame.main(String[])?player1@5.15:5.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaC (J2r
+!TikTakToeGame.main(String[])!args	PARAMETERB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java% ()2Å
+.TikTakToeGame.main(String[])?player1@5.15:5.22DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2Å
+.TikTakToeGame.main(String[])?player2@6.15:6.22DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2
+,TikTakToeGame.main(String[])?board@8.14:8.19DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2â
+6TikTakToeGame.main(String[])?currentPlayer@10.15:10.28DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java
+ 
+(2
+,TikTakToeGame.main(String[])?row@15.16:15.19DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2
+,TikTakToeGame.main(String[])?col@16.16:16.19DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2W
+voidRETURN_TYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (°
+.TikTakToeGame.main(String[])?player1@5.15:5.22VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java ("
+typePlayer"
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark>Player <mark class="class-field">player1</mark> = new Player("Spieler 1"<mark class="modifier">,</mark> 'X')*player12R
+PlayerTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (°
+.TikTakToeGame.main(String[])?player2@6.15:6.22VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java ("
+typePlayer"
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark>Player <mark class="class-field">player2</mark> = new Player("Spieler 2"<mark class="modifier">,</mark> 'O')*player22R
+PlayerTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (∆
+,TikTakToeGame.main(String[])?board@8.14:8.19VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java ("
+typeBoard"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Board <mark class="class-field">board</mark> = new Board(3)*board2Q
+BoardTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (2\
+Board.Board(int)CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (¸
+6TikTakToeGame.main(String[])?currentPlayer@10.15:10.28VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java
+ 
+("
+typePlayer"
+isFinalfalse"s
+declarationString^<mark class="modifier"> </mark>Player <mark class="class-field">currentPlayer</mark> = player1*currentPlayer2R
+PlayerTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java
+ 
+(2z
+.TikTakToeGame.main(String[])?player1@5.15:5.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java
+ 
+(&à
+,TikTakToeGame.main(String[])?row@15.16:15.19VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java ("
+typeint"
+isFinalfalse"î
+declarationString<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">row</mark> = getPlayerInput("Zeile")*row2O
+intTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (ä
+,TikTakToeGame.main(String[])?col@16.16:16.19VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java ("
+typeint"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">col</mark> = getPlayerInput("Spalte")*col2O
+intTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java (ñ
+!TikTakToeGame.main(String[])!args	PARAMETERB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2T
+String[]TYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java ($µ
+$TikTakToeGame.getPlayerInput(String)METHODB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java$ $(%"
+isFinalfalse"ø
+declarationString©<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">getPlayerInput</mark>(String dimension)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typeint*getPlayerInput2z
+.TikTakToeGame.getPlayerInput(String)!dimensionCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java(0 ((92Ñ
+8TikTakToeGame.getPlayerInput(String)?scanner@37.16:37.23CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java) )(2Ç
+6TikTakToeGame.getPlayerInput(String)?input@38.12:38.17CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java* *(2Ñ
+8TikTakToeGame.getPlayerInput(String)?scanner@37.16:37.23CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java* *(2Ç
+6TikTakToeGame.getPlayerInput(String)?input@38.12:38.17CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java+ +(2Ç
+6TikTakToeGame.getPlayerInput(String)?input@38.12:38.17CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java+" +('2Ñ
+8TikTakToeGame.getPlayerInput(String)?scanner@37.16:37.23CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java2 2(2Ç
+6TikTakToeGame.getPlayerInput(String)?input@38.12:38.17CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java5 5(2
+.TikTakToeGame.getPlayerInput(String)!dimension	PARAMETERB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java$- $(62ã
+8TikTakToeGame.getPlayerInput(String)?scanner@37.16:37.23DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java% %(2â
+6TikTakToeGame.getPlayerInput(String)?input@38.12:38.17DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java& &(2V
+intRETURN_TYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java$ $(í
+8TikTakToeGame.getPlayerInput(String)?scanner@37.16:37.23VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java% %("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2]
+java.util.ScannerTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java% %(˚
+6TikTakToeGame.getPlayerInput(String)?input@38.12:38.17VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java& &("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">input</mark>*input2O
+intTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java& &(ß
+.TikTakToeGame.getPlayerInput(String)!dimension	PARAMETERB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java$- $(6"
+typeString"
+isFinalfalse"%
+declarationStringString dimension*	dimension2R
+StringTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java$& $(,õ8
+,TikTakToeGame.checkGameResult(Board, Player)METHODB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java9 9(*"
+isFinalfalse"ë
+declarationString˚<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">checkGameResult</mark>(Board board<mark class="modifier"><mark class="modifier">,</mark></mark> Player currentPlayer)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typeboolean*checkGameResult2~
+2TikTakToeGame.checkGameResult(Board, Player)!boardCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java: :(2Ü
+:TikTakToeGame.checkGameResult(Board, Player)!currentPlayerCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java; ;(#2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@62.17:62.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java> >(2â
+=TikTakToeGame.checkGameResult(Board, Player)?size@58.12:58.16CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java> >( 2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@62.17:62.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java>" >(#2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?j@65.21:65.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaA A(2â
+=TikTakToeGame.checkGameResult(Board, Player)?size@58.12:58.16CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaA  A($2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?j@65.21:65.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaA& A('2~
+2TikTakToeGame.checkGameResult(Board, Player)!boardCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaB B(2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@62.17:62.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaB B( 2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?j@65.21:65.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaB" B(#2ã
+?TikTakToeGame.checkGameResult(Board, Player)?symbol@59.13:59.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaB( B(.2ã
+?TikTakToeGame.checkGameResult(Board, Player)?rowWin@63.20:63.26CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaC C(2~
+2TikTakToeGame.checkGameResult(Board, Player)!boardCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaE E(2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?j@65.21:65.22CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaE E( 2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@62.17:62.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaE" E(#2ã
+?TikTakToeGame.checkGameResult(Board, Player)?symbol@59.13:59.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaE( E(.2ã
+?TikTakToeGame.checkGameResult(Board, Player)?colWin@64.20:64.26CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaF F(2ã
+?TikTakToeGame.checkGameResult(Board, Player)?rowWin@63.20:63.26CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaI I(2ã
+?TikTakToeGame.checkGameResult(Board, Player)?colWin@64.20:64.26CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaI I( 2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@81.17:81.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaQ Q(2â
+=TikTakToeGame.checkGameResult(Board, Player)?size@58.12:58.16CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaQ Q( 2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@81.17:81.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaQ" Q(#2~
+2TikTakToeGame.checkGameResult(Board, Player)!boardCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaR R(2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@81.17:81.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaR R(2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@81.17:81.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaR R(2ã
+?TikTakToeGame.checkGameResult(Board, Player)?symbol@59.13:59.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaR$ R(*2ë
+ETikTakToeGame.checkGameResult(Board, Player)?diagonal1Win@79.16:79.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaS S(2~
+2TikTakToeGame.checkGameResult(Board, Player)!boardCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaU U(2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@81.17:81.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaU U(2â
+=TikTakToeGame.checkGameResult(Board, Player)?size@58.12:58.16CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaU U("2Ü
+:TikTakToeGame.checkGameResult(Board, Player)?i@81.17:81.18CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaU) U(*2ã
+?TikTakToeGame.checkGameResult(Board, Player)?symbol@59.13:59.19CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaU/ U(52ë
+ETikTakToeGame.checkGameResult(Board, Player)?diagonal2Win@80.16:80.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaV V(2ë
+ETikTakToeGame.checkGameResult(Board, Player)?diagonal1Win@79.16:79.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaY Y(2ë
+ETikTakToeGame.checkGameResult(Board, Player)?diagonal2Win@80.16:80.28CALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaY Y(+2É
+2TikTakToeGame.checkGameResult(Board, Player)!board	PARAMETERB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java91 9(62ã
+:TikTakToeGame.checkGameResult(Board, Player)!currentPlayer	PARAMETERB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java9? 9(L2ê
+=TikTakToeGame.checkGameResult(Board, Player)?size@58.12:58.16DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java: :(2í
+?TikTakToeGame.checkGameResult(Board, Player)?symbol@59.13:59.19DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java; ;(2ç
+:TikTakToeGame.checkGameResult(Board, Player)?i@62.17:62.18DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java> >(2í
+?TikTakToeGame.checkGameResult(Board, Player)?rowWin@63.20:63.26DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java? ?(2í
+?TikTakToeGame.checkGameResult(Board, Player)?colWin@64.20:64.26DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java@ @(2ç
+:TikTakToeGame.checkGameResult(Board, Player)?j@65.21:65.22DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaA A(2ò
+ETikTakToeGame.checkGameResult(Board, Player)?diagonal1Win@79.16:79.28DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaO O(2ò
+ETikTakToeGame.checkGameResult(Board, Player)?diagonal2Win@80.16:80.28DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaP P(2ç
+:TikTakToeGame.checkGameResult(Board, Player)?i@81.17:81.18DECLARATIONB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaQ Q(2Z
+booleanRETURN_TYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java9 9(ì
+=TikTakToeGame.checkGameResult(Board, Player)?size@58.12:58.16VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java: :("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">size</mark> = board.getSize()*size2O
+intTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java: :(2~
+2TikTakToeGame.checkGameResult(Board, Player)!boardCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java: :(ê
+?TikTakToeGame.checkGameResult(Board, Player)?symbol@59.13:59.19VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java; ;("
+typechar"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>char <mark class="class-field">symbol</mark> = currentPlayer.getSymbol()*symbol2P
+charTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java; ;(2Ü
+:TikTakToeGame.checkGameResult(Board, Player)!currentPlayerCALLB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java; ;(#˚
+:TikTakToeGame.checkGameResult(Board, Player)?i@62.17:62.18VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java> >("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2O
+intTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java> >(ö
+?TikTakToeGame.checkGameResult(Board, Player)?rowWin@63.20:63.26VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java? ?("
+typeboolean"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">rowWin</mark> = true*rowWin2S
+booleanTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java? ?(ö
+?TikTakToeGame.checkGameResult(Board, Player)?colWin@64.20:64.26VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java@ @("
+typeboolean"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">colWin</mark> = true*colWin2S
+booleanTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java@ @(˚
+:TikTakToeGame.checkGameResult(Board, Player)?j@65.21:65.22VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaA A("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2O
+intTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaA A(¨
+ETikTakToeGame.checkGameResult(Board, Player)?diagonal1Win@79.16:79.28VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaO O("
+typeboolean"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">diagonal1Win</mark> = true*diagonal1Win2S
+booleanTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaO O(¨
+ETikTakToeGame.checkGameResult(Board, Player)?diagonal2Win@80.16:80.28VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaP P("
+typeboolean"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">diagonal2Win</mark> = true*diagonal2Win2S
+booleanTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaP P(˚
+:TikTakToeGame.checkGameResult(Board, Player)?i@81.17:81.18VARIABLEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaQ Q("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2O
+intTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.javaQ Q(†
+2TikTakToeGame.checkGameResult(Board, Player)!board	PARAMETERB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java91 9(6"
+typeBoard"
+isFinalfalse" 
+declarationStringBoard board*board2Q
+BoardTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java9+ 9(0ª
+:TikTakToeGame.checkGameResult(Board, Player)!currentPlayer	PARAMETERB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java9? 9(L"
+typePlayer"
+isFinalfalse")
+declarationStringPlayer currentPlayer*currentPlayer2R
+PlayerTYPEB
+8C:\JavaProjekt\TikTakToeGame-main\src\TikTakToeGame.java98 9(>

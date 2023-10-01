@@ -1,0 +1,152 @@
+
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.javaı
+PlayerCLASS7
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java("
+packagePlayer"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>Player"
+accesspublic*Player2g
+Player.Player(String, char)DECLARATION;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2\
+Player.getName()DECLARATION;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java	 	(2^
+Player.getSymbol()DECLARATION;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2l
+ Player.makeMove(Board, int, int)DECLARATION;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2a
+Player?name@1.19:1.23DECLARATION;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2c
+Player?symbol@2.17:2.23DECLARATION;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (›
+Player.Player(String, char)CONSTRUCTOR;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java ("≥
+declarationStringù<mark class="modifier">public </mark><mark class="method">Player</mark>(String name<mark class="modifier"><mark class="modifier">,</mark></mark> char symbol)*Player2e
+ Player.Player(String, char)!nameCALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2g
+"Player.Player(String, char)!symbolCALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2Z
+Player?name@1.19:1.23CALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2\
+Player?symbol@2.17:2.23CALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2j
+ Player.Player(String, char)!name	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2l
+"Player.Player(String, char)!symbol	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java$ (*2R
+PlayerRETURN_TYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (Å
+ Player.Player(String, char)!name	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2K
+StringTYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (Å
+"Player.Player(String, char)!symbol	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java$ (*"
+typechar"
+isFinalfalse" 
+declarationStringchar symbol*symbol2I
+charTYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (#‘
+Player.getName()METHOD;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java	 	("
+isFinalfalse"f
+declarationStringQ<mark class="modifier">public </mark>String <mark class="method">getName</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getName2Z
+Player?name@1.19:1.23CALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java
+ 
+(2R
+StringRETURN_TYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java	 	(÷
+Player.getSymbol()METHOD;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java ("
+isFinalfalse"f
+declarationStringQ<mark class="modifier">public </mark>char <mark class="method">getSymbol</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typechar*	getSymbol2\
+Player?symbol@2.17:2.23CALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2P
+charRETURN_TYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (´
+ Player.makeMove(Board, int, int)METHOD;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java ("
+isFinalfalse"’
+declarationStringø<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">makeMove</mark>(Board board<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> row<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> col)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*makeMove2k
+&Player.makeMove(Board, int, int)!boardCALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2i
+$Player.makeMove(Board, int, int)!rowCALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (!2i
+$Player.makeMove(Board, int, int)!colCALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java# (&2k
+&Player.makeMove(Board, int, int)!boardCALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2i
+$Player.makeMove(Board, int, int)!rowCALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (2i
+$Player.makeMove(Board, int, int)!colCALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java  (#2\
+Player?symbol@2.17:2.23CALL;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java% (+2p
+&Player.makeMove(Board, int, int)!board	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java ($2n
+$Player.makeMove(Board, int, int)!row	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java* (-2n
+$Player.makeMove(Board, int, int)!col	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java3 (62P
+voidRETURN_TYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (Ü
+&Player.makeMove(Board, int, int)!board	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java ($"
+typeBoard"
+isFinalfalse" 
+declarationStringBoard board*board2J
+BoardTYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (ò
+$Player.makeMove(Board, int, int)!row	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java* (-"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> row*row2H
+intTYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java& ()ò
+$Player.makeMove(Board, int, int)!col	PARAMETER;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java3 (6"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> col*col2H
+intTYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java/ (2‚
+Player?name@1.19:1.23VARIABLE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java ("
+isFinalfalse"
+typeString"g
+declarationStringR<mark class="modifier">private </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accessprivate*name2K
+StringTYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (‚
+Player?symbol@2.17:2.23VARIABLE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java ("
+isFinalfalse"
+typechar"g
+declarationStringR<mark class="modifier">private </mark>char <mark class="class-field">symbol</mark>"
+isStaticfalse"
+accessprivate*symbol2I
+charTYPE;
+1C:\JavaProjekt\TikTakToeGame-main\src\Player.java (
