@@ -2,52 +2,66 @@ import java.util.Scanner;
 
 public class TikTakToeGame {
     public static void main(String[] args) {
-        //Zwei Spieler Objekte erstellen Spielerinitialisierung
-        Player player1 = new Player("Spieler 1",  'X');
+        Scanner scanner = new Scanner(System.in);
+
+        // Zwei Spieler Objekte erstellen Spielerinitialisierung
+        Player player1 = new Player("Spieler 1", 'X');
         Player player2 = new Player("Spieler 2", 'O');
-        //Spielfeldinitialisierung Spielfeldobjekt mit Grösse 3x3 erstellen
+
+        // Spielfeldinitialisierung Spielfeldobjekt mit Größe 3x3 erstellen
         Board board = new Board(3);
-        //
+
+
+
         Player currentPlayer = player1; // Der Spieler 1 beginnt
 
         while (true) {
             board.displayBoard();
-            System.out.println(currentPlayer.getName() + ",  ist an der Reihe.");
-            int row = getPlayerInput("Zeile");
-            int col = getPlayerInput("Spalte");
+            System.out.println(currentPlayer.getName() + ", ist an der Reihe.");
+            int move = getPlayerInput(currentPlayer);
 
-            currentPlayer.makeMove(board, row, col);
+            int row = (move - 1) / board.getSize();
+            int col = (move - 1) % board.getSize();
 
-            if (checkGameResult(board, currentPlayer)) {
-                board.displayBoard();
-                System.out.println(currentPlayer.getName() + " gewinnt! Herzlichen Glückwunsch!");
-                break;
-            } else if (board.isFull()) {
-                board.displayBoard();
-                System.out.println("Das Spiel endet unentschieden!");
-                break;
+
+            if (board.isEmptyCell(row, col)) {
+                currentPlayer.makeMove(board, row, col);
+
+                if (checkGameResult(board, currentPlayer)) {
+                    board.displayBoard();
+                    System.out.println(currentPlayer.getName() + " gewinnt! Herzlichen Glückwunsch!");
+                    break;
+                } else if (board.isFull()) {
+                    board.displayBoard();
+                    System.out.println("Das Spiel endet unentschieden!");
+                    break;
+                }
+
+                // Spieler wechseln
+                currentPlayer = (currentPlayer == player1) ? player2 : player1;
+            } else {
+                System.out.println("Dieses Feld ist bereits belegt. Bitte wählen Sie ein anderes Feld.");
             }
-
-            // Spieler wechseln
-            currentPlayer = (currentPlayer == player1) ? player2 : player1;
         }
+
+        scanner.close(); // Den Scanner schließen, um Ressourcen freizugeben
     }
 
-    // Hilfsmethode zur Eingabe einer Zeile oder Spalte von einem Spieler
-    private static int getPlayerInput(String dimension) {
+    // Hilfsmethode zur Eingabe einer Nummer für den Spielzug eines Spielers
+    private static int getPlayerInput(Player currentPlayer) {
         Scanner scanner = new Scanner(System.in);
         int input;
         while (true) {
-            System.out.print("Geben Sie die " + dimension + " (0, 1, 2) ein: ");
+            System.out.print(currentPlayer.getName() + ", geben Sie die Nummer des Feldes (1 bis 9) ein: ");
             if (scanner.hasNextInt()) {
                 input = scanner.nextInt();
-                if (input >= 0 && input <= 2) {
+                if (input >= 1 && input <= 9) {
                     break;
                 } else {
-                    System.out.println("Ungültige Eingabe. Bitte geben Sie eine Zahl zwischen 0 und 2 ein.");
+                    System.out.println("Ungültige Eingabe. Bitte geben Sie eine Zahl zwischen 1 und 9 ein.");
                 }
             } else {
-                System.out.println("Ungültige Eingabe. Bitte geben Sie eine Zahl zwischen 0 und 2 ein.");
+                System.out.println("Ungültige Eingabe. Bitte geben Sie eine Zahl zwischen 1 und 9 ein.");
                 scanner.next(); // Leere den Scanner-Puffer
             }
         }
@@ -90,4 +104,3 @@ public class TikTakToeGame {
         return diagonal1Win || diagonal2Win;
     }
 }
-
