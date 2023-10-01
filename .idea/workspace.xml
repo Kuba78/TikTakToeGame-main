@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135d72d7-bd83-4183-8aa0-17850b3ced48" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TikTakToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TikTakToeGame.java" afterDir="false" />
-    </list>
+    <list default="true" id="135d72d7-bd83-4183-8aa0-17850b3ced48" name="Changes" comment="Änderung Eingabe Steine ins Spielfeld mit den Zahlen belegungen 1-9 anstatt Reihe/Spalte Koordinaten" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,11 +88,23 @@
       <workItem from="1696138396323" duration="6000" />
       <workItem from="1696145584548" duration="914000" />
       <workItem from="1696147129819" duration="1511000" />
-      <workItem from="1696150018609" duration="3170000" />
+      <workItem from="1696150018609" duration="3538000" />
     </task>
+    <task id="LOCAL-00001" summary="Änderung Eingabe Steine ins Spielfeld mit den Zahlen belegungen 1-9 anstatt Reihe/Spalte Koordinaten">
+      <created>1696155441013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696155441013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Änderung Eingabe Steine ins Spielfeld mit den Zahlen belegungen 1-9 anstatt Reihe/Spalte Koordinaten" />
+    <option name="LAST_COMMIT_MESSAGE" value="Änderung Eingabe Steine ins Spielfeld mit den Zahlen belegungen 1-9 anstatt Reihe/Spalte Koordinaten" />
   </component>
 </project>
